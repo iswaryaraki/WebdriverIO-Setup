@@ -22,6 +22,6 @@ Step 1: Run the following cmd from the root directory of this project
 
 `java -jar .\selenium-server-standalone-3.3.1.jar`
 
-Step 2: npm i
+Step 2: `npm i`
 
-Step 3: npm test
+Step 3: `npm test`
